@@ -20,5 +20,5 @@
         # optional list of tags
         tag:
             ids: [0]            # tag ID
-            frames: [dock_frame]  # optional frame name
+            frames: [apriltag]  # optional frame name
             sizes: [0.16]   # optional tag-specific edge size
