@@ -21,4 +21,4 @@
         tag:
             ids: [0, 1]            # tag ID
             frames: [apriltag_shell_est, apriltag_tray_est]  # optional frame name
-            sizes: [0.2, 0.1]   # optional tag-specific edge size
+            sizes: [0.20, 0.10]   # optional tag-specific edge size
